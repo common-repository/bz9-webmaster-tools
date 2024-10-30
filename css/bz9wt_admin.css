@@ -1,0 +1,31 @@
+.bz9wt_label {
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    width: 280px;
+}
+#bz9wt_descr {
+    width: 80%;
+}
+#bz9wt_tool {
+    width: 80%;
+}
+.formfield * {
+    vertical-align: middle;
+}
+.bz9wt_header_wrap {
+    margin-top: -15px;
+}
+
+.bz9wt_header_wrap #icon {
+    float: left;
+    height: 34px;
+    margin: 7px 8px 0 0;
+    width: 36px;
+}
+.bz9wt_header_wrap h2 {
+    font-size: 23px;
+    line-height: 29px;
+    padding: 9px 15px 4px 0;
+    font-weight: normal;
+}

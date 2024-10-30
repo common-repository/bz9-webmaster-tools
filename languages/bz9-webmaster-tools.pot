@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BZ9 Webmaster Tools\n"
+"POT-Creation-Date: 2014-09-10 12:02-0000\n"
+"PO-Revision-Date: 2014-09-10 12:04-0000\n"
+"Last-Translator: \n"
+"Language-Team: BZ9\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bz9_webmaster_tools.php:65
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: bz9_webmaster_tools.php:224
+msgid "Your Saved BZ9 Tools"
+msgstr ""
+
+#: bz9_webmaster_tools.php:225
+msgid "BZ9 Tool"
+msgstr ""
+
+#: bz9_webmaster_tools.php:226 bz9_webmaster_tools.php:227
+msgid "Add New BZ9 Tool"
+msgstr ""
+
+#: bz9_webmaster_tools.php:228
+msgid "Edit BZ9 Tool"
+msgstr ""
+
+#: bz9_webmaster_tools.php:229
+msgid "New BZ9 Tool"
+msgstr ""
+
+#: bz9_webmaster_tools.php:230
+msgid "Saved BZ9 Tools"
+msgstr ""
+
+#: bz9_webmaster_tools.php:231
+msgid "View BZ9 Tool"
+msgstr ""
+
+#: bz9_webmaster_tools.php:232
+msgid "Search BZ9 Tools"
+msgstr ""
+
+#: bz9_webmaster_tools.php:233
+msgid "No BZ9 Tools found"
+msgstr ""
+
+#: bz9_webmaster_tools.php:234
+msgid "No BZ9 Tools found in Trash"
+msgstr ""
+
+#: bz9_webmaster_tools.php:236
+msgid "BZ9 Tools"
+msgstr ""
+
+#: bz9_webmaster_tools.php:265 bz9_webmaster_tools.php:268
+msgid "Your BZ9 tool has been updated."
+msgstr ""
+
+#: bz9_webmaster_tools.php:266
+msgid "Custom field updated."
+msgstr ""
+
+#: bz9_webmaster_tools.php:267
+msgid "Custom field deleted."
+msgstr ""
+
+#: bz9_webmaster_tools.php:269
+#, php-format
+msgid "Tool restored to revision from %s"
+msgstr ""
+
+#: bz9_webmaster_tools.php:270 bz9_webmaster_tools.php:271
+msgid "Your BZ9 tool has been saved."
+msgstr ""
+
+#: bz9_webmaster_tools.php:272
+msgid "Tool submitted."
+msgstr ""
+
+#: bz9_webmaster_tools.php:272 bz9_webmaster_tools.php:273
+#: bz9_webmaster_tools.php:274
+msgid "Preview Tool"
+msgstr ""
+
+#: bz9_webmaster_tools.php:273
+msgid "Tool scheduled for"
+msgstr ""
+
+#: bz9_webmaster_tools.php:273
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: bz9_webmaster_tools.php:274
+msgid "Tool draft updated"
+msgstr ""
+
+#: bz9_webmaster_tools.php:285
+msgid "Tool Details"
+msgstr ""
+
+#: bz9_webmaster_tools.php:304 bz9_webmaster_tools.php:418
+msgid "Description"
+msgstr ""
+
+#: bz9_webmaster_tools.php:309
+msgid "Add or Edit BZ9 Webmaster Code"
+msgstr ""
+
+#: bz9_webmaster_tools.php:311
+msgid "Click here to get BZ9 Webmaster Code"
+msgstr ""
+
+#: bz9_webmaster_tools.php:386
+msgid "Enter Tool Name"
+msgstr ""
+
+#: bz9_webmaster_tools.php:417
+msgid "Tool Name"
+msgstr ""
+
+#: bz9_webmaster_tools.php:419
+msgid "Date"
+msgstr ""
+
+#: bz9_webmaster_tools.php:449
+msgid "How To Login & Open A FREE BZ9 Account"
+msgstr ""
+
+#: bz9_webmaster_tools.php:449
+msgid "Login To BZ9"
+msgstr ""
+
+#: bz9_webmaster_tools.php:450
+msgid "Setup BZ9 Tools"
+msgstr ""
+
+#: bz9_webmaster_tools.php:451
+msgid "BZ9 Tutorials ... How To Use The BZ9 Tools Plugin"
+msgstr ""
+
+#: bz9_webmaster_tools.php:451
+msgid "BZ9 Tutorials"
+msgstr ""
+
+#: bz9_webmaster_tools.php:483
+msgid ""
+"In order to create and edit your webmaster tools, please open a FREE BZ9 "
+"account or login to your existing account."
+msgstr ""
+
+#: bz9_webmaster_tools.php:484 bz9_webmaster_tools.php:486
+msgid "HTML tutorial"
+msgstr ""
+
+#: form.php:19
+msgid "No Saved Tools Found"
+msgstr ""
+
+#: form.php:24
+msgid "BZ9 Webmaster Tools"
+msgstr ""
+
+#: form.php:164
+msgid ""
+"Enter your webmaster tools code into one of the boxes below. To save you "
+"time three boxes have been provided to make multiple shortcodes."
+msgstr ""
+
+#: form.php:167 form.php:172 form.php:177
+msgid "Tools Code"
+msgstr ""
+
+#: form.php:182
+msgid "Saved Tools"
+msgstr ""
+
+#: form.php:187
+msgid "Create Shortcode"
+msgstr ""
